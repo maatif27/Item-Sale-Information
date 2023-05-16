@@ -1,4 +1,4 @@
-# Item-Sale-Information-1
+# Item-Sale-Information-2
 This is a Item sale Information App. It also display year wise  Sales data.
 <br> An Apk file is also attached with this project.
 
